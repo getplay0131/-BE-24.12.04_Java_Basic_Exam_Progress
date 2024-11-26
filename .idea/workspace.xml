@@ -5,26 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2a71b03-3e0c-49e5-a2d9-b619a03756e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/BigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Check_variable_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/InitData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/MethodChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/MethodChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/NullMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/NullMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/NullMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/VarChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/VarChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/initMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코딩 테스트/.idea/코딩 테스트.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrderRefactoring_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrderRefactoring_improvement_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrderRefactoring_improvement_inputData_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrder_Teacher_Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerData_imp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain1_Self_Improvement1_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain1_improvement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain_imp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/ValueData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/ValueDataMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/oop1/ValueObjectMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/기본.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/기본.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/ref/Method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/기본/ref/NullMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/기본/ref/NullMain3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Dev" />
+                    <option name="lastUsedInstant" value="1732523009" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1732523008" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -63,16 +87,25 @@
     "Application.Method2.executor": "Run",
     "Application.MethodChange1.executor": "Run",
     "Application.MethodChange2.executor": "Run",
+    "Application.MusicPlayerMain1.executor": "Run",
+    "Application.MusicPlayerMain1_Self_Improvement1_Method.executor": "Run",
+    "Application.MusicPlayerMain3.executor": "Run",
+    "Application.MusicPlayerMain_imp.executor": "Run",
     "Application.NullMain1.executor": "Run",
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
+    "Application.ProductOrderRefactoring_1.executor": "Run",
+    "Application.ProductOrderRefactoring_improvement_1.executor": "Run",
+    "Application.ProductOrderRefactoring_improvement_inputData_1.executor": "Run",
+    "Application.ValueDataMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
     "Application.initMain.executor": "Run",
     "Application.tests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Dev",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/LINE/OneDrive/바탕 화면/교육/백엔드/[리마인드][백] 소스 코드/java/인프런",
     "project.structure.last.edited": "Modules",
@@ -83,16 +116,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oop1" />
+      <recent name="Exam_241126" />
       <recent name="ref" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NullMain3">
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.Method2" />
+  <component name="RunManager" selected="Application.MusicPlayerMain_imp">
+    <configuration name="MusicPlayerMain1_Self_Improvement1_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain1_Self_Improvement1_Method" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain1" />
+    <configuration name="MusicPlayerMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain3" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain2" />
+    <configuration name="MusicPlayerMain_imp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain_imp" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain3" />
+    <configuration name="ValueDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ValueDataMain" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="initMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.initMain" />
+    <configuration name="ValueObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ValueObjectMain" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NullMain3" />
-        <item itemvalue="Application.initMain" />
-        <item itemvalue="Application.NullMain2" />
-        <item itemvalue="Application.NullMain1" />
-        <item itemvalue="Application.Method2" />
+        <item itemvalue="Application.MusicPlayerMain_imp" />
+        <item itemvalue="Application.ValueObjectMain" />
+        <item itemvalue="Application.ValueDataMain" />
+        <item itemvalue="Application.MusicPlayerMain3" />
+        <item itemvalue="Application.MusicPlayerMain1_Self_Improvement1_Method" />
       </list>
     </recent_temporary>
   </component>
@@ -172,5 +207,18 @@
       <updated>1732149265825</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
