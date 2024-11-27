@@ -5,25 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2a71b03-3e0c-49e5-a2d9-b619a03756e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrderRefactoring_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrderRefactoring_improvement_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrderRefactoring_improvement_inputData_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241126/ProductOrder_Teacher_Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerData_imp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain1_Self_Improvement1_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain1_improvement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/MusicPlayerMain_imp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/ValueData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/ValueDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/oop1/ValueObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/RectangleOopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/RectangleOopMain_imp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/Rectangle_imp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/construct/ConstructMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberInit_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/construct/MethodInitMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/construct/MethodInitMain1_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/ref/Method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/기본/ref/NullMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/기본/ref/NullMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/0. 목차.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/1. 클래스와 데이터.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/10. 다형성1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/11. 다형성2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/12. 다형성과 설계.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/13. 다음으로.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/2. 기본형과 참조형.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/3. 객체 지향 프로그래밍.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/4. 생성자.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/5. 패키지.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/6. 접근 제어자.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/7. 자바 메모리 구조와 static.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/8. final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-pdf/9. 상속.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/0. 목차.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/1. Hello World.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/10. 다음으로.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/2. 변수.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/3. 연산자.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/4. 조건문.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/5. 반복문.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/6. 스코프, 형변환.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/7. 훈련.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/8. 배열.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/9. 메서드.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start-pdf/변수 캡쳐본.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +102,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccountMain.executor": "Run",
     "Application.Check_variable_value.executor": "Run",
+    "Application.ConstructMain1.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.MethodChange1.executor": "Run",
     "Application.MethodChange2.executor": "Run",
+    "Application.MethodInitMain1.executor": "Run",
+    "Application.MethodInitMain1_1.executor": "Run",
     "Application.MusicPlayerMain1.executor": "Run",
     "Application.MusicPlayerMain1_Self_Improvement1_Method.executor": "Run",
     "Application.MusicPlayerMain3.executor": "Run",
@@ -97,6 +121,8 @@
     "Application.ProductOrderRefactoring_1.executor": "Run",
     "Application.ProductOrderRefactoring_improvement_1.executor": "Run",
     "Application.ProductOrderRefactoring_improvement_inputData_1.executor": "Run",
+    "Application.RectangleOopMain.executor": "Run",
+    "Application.RectangleOopMain_imp1.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
@@ -116,18 +142,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
+      <recent name="Exam_241127" />
       <recent name="oop1" />
       <recent name="Exam_241126" />
       <recent name="ref" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MusicPlayerMain_imp">
-    <configuration name="MusicPlayerMain1_Self_Improvement1_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain1_Self_Improvement1_Method" />
+  <component name="RunManager" selected="Application.ConstructMain1">
+    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_241127.AccountMain" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="Exam_241127.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain3" />
+    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain_imp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain_imp" />
+    <configuration name="MethodInitMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueDataMain" />
+    <configuration name="MethodInitMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain1_1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueObjectMain" />
+    <configuration name="RectangleOopMain_imp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_241127.RectangleOopMain_imp1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="Exam_241127.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MusicPlayerMain_imp" />
-        <item itemvalue="Application.ValueObjectMain" />
-        <item itemvalue="Application.ValueDataMain" />
-        <item itemvalue="Application.MusicPlayerMain3" />
-        <item itemvalue="Application.MusicPlayerMain1_Self_Improvement1_Method" />
+        <item itemvalue="Application.ConstructMain1" />
+        <item itemvalue="Application.MethodInitMain1_1" />
+        <item itemvalue="Application.MethodInitMain1" />
+        <item itemvalue="Application.AccountMain" />
+        <item itemvalue="Application.RectangleOopMain_imp1" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +243,81 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/AccountMain.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/AccountMain.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/AccountMain.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>6</line>
+          <properties class="Exam_241127.Account" method="deposit">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>11</line>
+          <properties class="Exam_241127.Account" method="withdraw">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>4</line>
+          <properties field="amount" class="Exam_241127.Account" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
+          <line>3</line>
+          <properties field="balance" class="Exam_241127.Account" />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception" />
