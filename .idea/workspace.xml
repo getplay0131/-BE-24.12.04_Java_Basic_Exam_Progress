@@ -5,26 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2a71b03-3e0c-49e5-a2d9-b619a03756e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/BigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Check_variable_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/InitData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/MethodChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/MethodChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/NullMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/NullMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/NullMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/VarChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/VarChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/ref/initMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코딩 테스트/.idea/코딩 테스트.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241202/프로그래머스_가장큰수찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241202/프로그래머스_대문자와소문자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241202/프로그래머스_숨어있는숫자의덧셈_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241202/프로그래머스_점의위치구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/com/helloshop/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/com/helloshop/order/OrderHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/com/helloshop/order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/com/helloshop/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/com/helloshop/product/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/com/helloshop/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/com/helloshop/user/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/pack/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/pack/PackageMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Progress_241202/pack/a/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/AccountMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/MusicPlayerMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/ProducrMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/RectangleMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/StudentMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/antArmyCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/antArmyCount_review1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_2411282_241129/rock_paper_scissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_241129/pro_array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_241129/pro_array2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/Exam_241129/pro_array3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/ClassStart1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/ClassStart2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/ClassStart3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/ClassStart4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/ClassStart5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/MovieReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/MovieReviewMain1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/MovieReviewMain2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/MovieReviewMainScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/ProductOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/ProductOrderMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/class1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/BigData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/Check_variable_value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/InitData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/Method1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/Method2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/MethodChange1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/MethodChange2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/NullMain1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/NullMain2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/NullMain3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/VarChange1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/VarChange2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-BE-24.11.29_Java_Basic_Exam-CodingTest/basic/src/ref/initMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/기본.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/기본.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/기본/ref/NullMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/기본/ref/NullMain3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +106,7 @@
     "Application.NullMain1.executor": "Run",
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
+    "Application.PackageMain1.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
     "Application.initMain.executor": "Run",
@@ -86,20 +127,7 @@
       <recent name="ref" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NullMain3">
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.Method2" />
-      <module name="기본" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ref.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PackageMain1">
     <configuration name="NullMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ref.NullMain1" />
       <module name="기본" />
@@ -139,6 +167,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PackageMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_241202.pack.PackageMain1" />
+      <module name="기본" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Progress_241202.pack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="initMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ref.initMain" />
       <module name="기본" />
@@ -154,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PackageMain1" />
         <item itemvalue="Application.NullMain3" />
         <item itemvalue="Application.initMain" />
         <item itemvalue="Application.NullMain2" />
         <item itemvalue="Application.NullMain1" />
-        <item itemvalue="Application.Method2" />
       </list>
     </recent_temporary>
   </component>
