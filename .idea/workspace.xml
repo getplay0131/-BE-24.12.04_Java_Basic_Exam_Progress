@@ -5,45 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2a71b03-3e0c-49e5-a2d9-b619a03756e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/RectangleOopMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/RectangleOopMain_imp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241127/Rectangle_imp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/ConstructMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberInit_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MethodInitMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MethodInitMain1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241204/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241204/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241204/ShoppingCartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/Data3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/DataCountMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/DataCountMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/JavaMemoryMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/progress_241204메모리구조/JavaMemoryMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/0. 목차.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/1. 클래스와 데이터.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/10. 다형성1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/11. 다형성2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/12. 다형성과 설계.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/13. 다음으로.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/2. 기본형과 참조형.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/3. 객체 지향 프로그래밍.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/4. 생성자.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/5. 패키지.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/6. 접근 제어자.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/7. 자바 메모리 구조와 static.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/8. final.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-pdf/9. 상속.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/0. 목차.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/1. Hello World.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/10. 다음으로.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/2. 변수.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/3. 연산자.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/4. 조건문.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/5. 반복문.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/6. 스코프, 형변환.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/7. 훈련.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/8. 배열.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/9. 메서드.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start-pdf/변수 캡쳐본.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/construct/ConstructMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/construct/ConstructMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/ref/Method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/기본/construct/ConstructMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/기본/construct/ConstructMain1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +65,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -105,6 +84,11 @@
     "Application.AccountMain.executor": "Run",
     "Application.Check_variable_value.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
+    "Application.DataCountMain3.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Run",
+    "Application.JavaMemoryMain2.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.MethodChange1.executor": "Run",
@@ -123,12 +107,14 @@
     "Application.ProductOrderRefactoring_improvement_inputData_1.executor": "Run",
     "Application.RectangleOopMain.executor": "Run",
     "Application.RectangleOopMain_imp1.executor": "Run",
+    "Application.ShoppingCartMain.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
     "Application.initMain.executor": "Run",
     "Application.tests.executor": "Run",
+    "Attach to process.pid 10160.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Dev",
@@ -137,25 +123,26 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="progress_241204메모리구조" />
       <recent name="construct" />
       <recent name="Exam_241127" />
       <recent name="oop1" />
       <recent name="Exam_241126" />
-      <recent name="ref" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructMain1">
-    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam_241127.AccountMain" />
+  <component name="RunManager" selected="Application.DataCountMain3">
+    <configuration name="DataCountMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress_241204메모리구조.DataCountMain1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam_241127.*" />
+          <option name="PATTERN" value="progress_241204메모리구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
+    <configuration name="DataCountMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress_241204메모리구조.DataCountMain2" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="progress_241204메모리구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodInitMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain1" />
+    <configuration name="DataCountMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress_241204메모리구조.DataCountMain3" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="progress_241204메모리구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodInitMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain1_1" />
+    <configuration name="JavaMemoryMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress_241204메모리구조.JavaMemoryMain1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="progress_241204메모리구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleOopMain_imp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam_241127.RectangleOopMain_imp1" />
+    <configuration name="JavaMemoryMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress_241204메모리구조.JavaMemoryMain2" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam_241127.*" />
+          <option name="PATTERN" value="progress_241204메모리구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructMain1" />
-        <item itemvalue="Application.MethodInitMain1_1" />
-        <item itemvalue="Application.MethodInitMain1" />
-        <item itemvalue="Application.AccountMain" />
-        <item itemvalue="Application.RectangleOopMain_imp1" />
+        <item itemvalue="Application.DataCountMain3" />
+        <item itemvalue="Application.DataCountMain2" />
+        <item itemvalue="Application.DataCountMain1" />
+        <item itemvalue="Application.JavaMemoryMain2" />
+        <item itemvalue="Application.JavaMemoryMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +222,17 @@
       <updated>1732149265825</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
